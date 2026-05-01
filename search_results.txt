@@ -1,0 +1,138 @@
+lightweight-charts
+Performant financial charts built with HTML5 canvas
+Version 5.2.0 published 2026-04-24 by slicedsilver-tv
+Maintainers: tradingview-admin subzey rfrancois edewhursttv slicedsilver-tv
+Keywords: financial-charting-library charting-library html5-charts canvas typescript charting charts tradingview candlestick
+https://npm.im/lightweight-charts
+
+lightweight-charts-react-components
+React components for Lightweight Charts
+Version 1.4.1 published 2026-03-26 by GitHub Actions
+Maintainers: ukorvl
+Keywords: react lightweight-charts data-visualization trading charting stock market finance
+https://npm.im/lightweight-charts-react-components
+
+lightweight-charts-indicators
+446 technical analysis indicators for TradingView's lightweight-charts library
+Version 0.4.0 published 2026-02-27 by deepentropy16549846511654131546841132
+Maintainers: deepentropy16549846511654131546841132
+Keywords: lightweight-charts pinescript trading technical-analysis indicators oakscript ta finance
+https://npm.im/lightweight-charts-indicators
+
+lightweight-charts-drawing
+Drawing tools plugin for TradingView's lightweight-charts
+Version 0.1.1 published 2026-02-26 by deepentropy16549846511654131546841132
+Maintainers: deepentropy16549846511654131546841132
+Keywords: trading charts lightweight-charts drawing-tools technical-analysis trendline fibonacci
+https://npm.im/lightweight-charts-drawing
+
+lightweight-charts-react-wrapper
+![bundle-size](https://badgen.net/bundlephobia/minzip/lightweight-charts-react-wrapper/)
+Version 2.1.1 published 2024-05-11 by trash-and-fire
+Maintainers: trash-and-fire
+Keywords: react lightweight-charts financial-charting-library charting-library html5-charts canvas typescript charting charts
+https://npm.im/lightweight-charts-react-wrapper
+
+react-lightweight-charts
+React lightweight-charts component
+Version 0.1.0 published 2020-02-17 by mango-tree
+Maintainers: mango-tree
+https://npm.im/react-lightweight-charts
+
+svelte-lightweight-charts
+Svelte wrapper for financial lightweight charts built with HTML5 canvas
+Version 2.2.0 published 2023-05-18 by trash-and-fire
+Maintainers: trash-and-fire
+Keywords: svelte lightweight-charts financial-charting-library charting-library html5-charts canvas typescript charting charts
+https://npm.im/svelte-lightweight-charts
+
+kaktana-react-lightweight-charts
+A simple react wrapper for the tradingview lightweight charts module
+Version 2.0.0 published 2021-04-08 by aurelreb
+Maintainers: aurelreb
+Keywords: lightweight charts react wrapper tradingview
+https://npm.im/kaktana-react-lightweight-charts
+
+@dschz/solid-lightweight-charts
+TradingView Lightweight Charts™ as SolidJS components
+Version 0.4.0 published 2025-11-27 by dsanc89
+Maintainers: dsanc89
+Keywords: candlestick chart charts crypto-charts data-visualization financial-charts lightweight-charts options-chart price-chart solid solid-component solidjs stock-charts technical-analysis time-chart time-series tradingview typescript yield-curve
+https://npm.im/@dschz/solid-lightweight-charts
+
+krasulya-lightweight-charts
+FORK Financial lightweight charts built with HTML5 canvas
+Version 3.4.3 published 2021-06-14 by krasulya
+Maintainers: krasulya
+https://npm.im/krasulya-lightweight-charts
+
+lightweight-charts-line-tools
+Financial lightweight charts built with HTML5 canvas
+Version 4.1.1 published 2024-09-08 by baotm
+Maintainers: baotm
+Keywords: financial-charting-library charting-library html5-charts canvas typescript charting charts
+https://npm.im/lightweight-charts-line-tools
+
+create-lwc-plugin
+Wizard-like CLI tool for scaffolding a new plugin for Lightweight Charts™
+Version 0.1.3 published 2025-11-05 by slicedsilver-tv
+Maintainers: edewhursttv slicedsilver-tv
+Keywords: lightweight-charts lwc-plugin plugins
+https://npm.im/create-lwc-plugin
+
+ngx-lightweight-charts
+Angular wrapper for Trading View lightweight-charts
+Version 19.0.0 published 2025-04-13 by jamesbenrobb
+Maintainers: jamesbenrobb
+Keywords: Angular TradingView lightweight-charts ngx
+https://npm.im/ngx-lightweight-charts
+
+@linhnle/lightweight-charts
+Financial lightweight charts built with HTML5 canvas
+Version 3.4.10 published 2021-07-24 by linhnle
+Maintainers: linhnle
+Keywords: financial-charting-library charting-library html5-charts canvas typescript charting charts
+https://npm.im/@linhnle/lightweight-charts
+
+@tradingview-tools/lightweight-charts-react
+Tradingview's lightweight-charts for React
+Version 0.1.1 published 2022-02-06 by chellimiller
+Maintainers: chellimiller
+Keywords: lightweight-charts tradingview React trading charts candlestick
+https://npm.im/@tradingview-tools/lightweight-charts-react
+
+lightweight-charts-linetool
+Financial lightweight charts built with HTML5 canvas
+Version 3.8.1 published 2024-09-09 by baotm
+Maintainers: baotm
+Keywords: financial-charting-library charting-library html5-charts canvas typescript charting charts
+https://npm.im/lightweight-charts-linetool
+
+resfinex-lightweight-charts
+Financial lightweight charts built with HTML5 canvas
+Version 3.0.7 published 2020-06-26 by resfinex
+Maintainers: resfinex
+Keywords: financial-charting-library charting-library html5-charts canvas typescript charting charts
+https://npm.im/resfinex-lightweight-charts
+
+lightweight-charts-baseline
+Financial lightweight charts built with HTML5 canvas
+Version 3.8.1 published 2021-12-21 by mission-andromeda
+Maintainers: mission-andromeda
+Keywords: financial-charting-library charting-library html5-charts canvas typescript charting charts
+https://npm.im/lightweight-charts-baseline
+
+lightweight-charts-vyv-a
+Financial lightweight charts built with HTML5 canvas
+Version 1.3.13 published 2019-12-22 by vyv01
+Maintainers: vyv01
+Keywords: financial-charting-library charting-library html5-charts canvas typescript charting charts
+https://npm.im/lightweight-charts-vyv-a
+
+lightweight-charts-custom
+Financial lightweight charts built with HTML5 canvas
+Version 4.0.21 published 2023-08-29 by poojachouhan
+Maintainers: poojachouhan
+Keywords: financial-charting-library charting-library html5-charts canvas typescript charting charts
+https://npm.im/lightweight-charts-custom
+

@@ -1,0 +1,7 @@
+	 * const candlestickSeries = chart.addCandlestickSeries();
+	 * const candlestickSeries = chart.addCandlestickSeries();
+	Candlestick: CandlestickSeriesOptions;
+	Candlestick: CandlestickSeriesPartialOptions;
+export type CandlestickSeriesOptions = SeriesOptions<CandlestickStyleOptions>;
+export type CandlestickSeriesPartialOptions = SeriesPartialOptions<CandlestickStyleOptions>;
+	candlestickSeries as CandlestickSeries,
